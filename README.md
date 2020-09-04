@@ -1,4 +1,4 @@
-# Telecom-Churn
+# Telecom-Churn case study 
 case study predicting teclecom churn using logistic regression:
 
 Problem Statment
